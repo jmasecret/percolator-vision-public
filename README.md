@@ -1,6 +1,6 @@
 # Percolator Vision
 
-![Percolator Vision](public/brand/percolator-vision-logo.png)
+![Percolator Vision](https://www.percolator-vision.xyz/brand/percolator-vision-logo.png)
 
 **Real-time intelligence for the Percolator perpetual futures ecosystem on Solana.**
 
