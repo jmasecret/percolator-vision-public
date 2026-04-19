@@ -4,6 +4,8 @@
 
 **Real-time intelligence for the Percolator perpetual futures ecosystem on Solana.**
 
+[Website](https://percolator-vision.xyz) · [X / @perc_vision](https://x.com/perc_vision)
+
 ---
 
 ## The Thesis
@@ -105,6 +107,13 @@ $VISION is the access token for the Percolator Vision intelligence layer. Holder
 ## Status
 
 Meme Liquid V1 has closed its markets; V2 is on the way. Percolator, Alienator, perply, PERC, and Perpolator are all in flight on devnet. New forks are auto-discovered as they deploy — Percolator Vision is ready the moment the chain is.
+
+---
+
+## Links
+
+- **Website**: [percolator-vision.xyz](https://percolator-vision.xyz)
+- **X**: [@perc_vision](https://x.com/perc_vision)
 
 ---
 
