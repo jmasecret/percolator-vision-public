@@ -71,11 +71,12 @@ Percolator Vision is **WebSocket-first**. Every visible market subscribes to its
 
 | Program | Network | Status |
 |---|---|---|
-| Meme Liquid | mainnet | Live — 9 markets |
+| Meme Liquid | mainnet | V2 Coming Soon |
 | Percolator | devnet | Coming Soon |
 | Alienator | devnet | Coming Soon |
 | perply | devnet | Coming Soon |
 | PERC | devnet | Coming Soon |
+| Perpolator | devnet | Coming Soon |
 
 Plus every community fork surfaced by the scanner.
 
@@ -103,7 +104,7 @@ $VISION is the access token for the Percolator Vision intelligence layer. Holder
 
 ## Status
 
-Live on mainnet. Tracking 9 markets across Meme Liquid today, with four more programs preparing launch on devnet. New forks are auto-discovered as they deploy.
+Meme Liquid V1 has closed its markets; V2 is on the way. Percolator, Alienator, perply, PERC, and Perpolator are all in flight on devnet. New forks are auto-discovered as they deploy — Percolator Vision is ready the moment the chain is.
 
 ---
 
